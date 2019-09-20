@@ -1,4 +1,5 @@
 # FLAPPY BIRD
+[![HitCount](http://hits.dwyl.io/lakshaychhabra/flappyBird.svg)](http://hits.dwyl.io/lakshaychhabra/flappyBird)
 This Repo has clone of popular game Flappy bird made on SpriteKit 
 pretty simple
 
